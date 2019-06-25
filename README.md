@@ -7,3 +7,5 @@ This software was used on our design prototype that used Arduino microcontroller
 Also included in this repository is our Final Presentation that we presented to our client, Engineering Manager, and peers at the conclusion of the project.
 
 Final Presentation: https://docs.google.com/presentation/d/1bLscc3uHLY4F_is0dZbV5b8JvbIL7mhkcH-EicYnw-M/edit?usp=sharing
+
+Demonstration of PhotonRock: https://drive.google.com/file/d/1eoeG_A15tgujf_FI6gV3VX5QO7ywMdaf/view?usp=sharing
